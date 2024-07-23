@@ -3,39 +3,45 @@
     <h2>Experience</h2>
     <div class="timeline">
       <div class="year-container">
-        <span class="year">2023</span>
+        <span class="year">2023 - Present</span>
       </div>
       <ul>
-        <br><br><br>
+        <br /><br /><br />
         <li>
-          <a href="https://med-tu.org/techno" target="_blank">
+          <a href="https://med.tu.ac.th/techno" target="_blank">
             <div class="Subject">
               <h3>Faculty of Medicine, Thammasat University</h3>
               <h5>Software development of Department Education Technology</h5>
-              <div class="grey">June 2020 - Present</div>
+              <br />
+              <div class="grey">June 2023 - Present</div>
+              <br />
+              <div>
+                <strong>
+                  "I have been promoted from Computer Academic Practitioner to
+                  Senior Computer Academic."<span
+                    class="content"
+                    style="color: white"
+                    >( December 2024 )</span
+                  ></strong
+                >
+              </div>
             </div>
             <div class="content">
-
-              <br>
+              <br />
               <div>
                 <strong>Employee payroll management,</strong>
-                Successful by using HTML CSS BOOTSTRAP JQUERY AJAX for FRONTEND and PHP PDO for BACKEND
-                development.
-                <br><br>
-                <div class="b-margin">
-                  - Set permission of user.
-                </div>
-                <div class="b-margin">
-                  - CRUD system for employees details.
-                </div>
+                Successful by using HTML CSS BOOTSTRAP JQUERY AJAX for FRONTEND
+                and PHP PDO for BACKEND development.
+                <br /><br />
+                <div class="b-margin">- Set permission of user.</div>
+                <div class="b-margin">- CRUD system for employees details.</div>
                 <div class="b-margin">
                   - Feature import and export csv or excel file.
                 </div>
+                <div class="b-margin">- Generate payroll slip as pdf file.</div>
                 <div class="b-margin">
-                  - Generate payroll slip as pdf file.
-                </div>
-                <div class="b-margin">
-                  - Information search system such as search by identity card, name, department etc.
+                  - Information search system such as search by identity card,
+                  name, department etc.
                 </div>
                 <div class="b-margin">
                   - Employees can see details income only theirs.
@@ -43,24 +49,19 @@
               </div>
             </div>
             <div class="content">
-              <br>
+              <br />
               <div>
                 <strong>Booking Room,</strong>
-                Successful by using HTML CSS BOOTSTRAP JQUERY AJAX for FRONTEND and PHP PDO for BACKEND
-                development.
-                <br><br>
+                Successful by using HTML CSS BOOTSTRAP JQUERY AJAX for FRONTEND
+                and PHP PDO for BACKEND development.
+                <br /><br />
+                <div class="b-margin">- Set permission of administrator.</div>
                 <div class="b-margin">
-                  - Set permission of administrator.
+                  - Administrator can change status such as approval, waiting
+                  confirm, cancel etc.
                 </div>
-                <div class="b-margin">
-                  - Administrator can change status such as approval, waiting confirm, cancel etc.
-                </div>
-                <div class="b-margin">
-                  - Setting details of room.
-                </div>
-                <div class="b-margin">
-                  - CRUD system for booking.
-                </div>
+                <div class="b-margin">- Setting details of room.</div>
+                <div class="b-margin">- CRUD system for booking.</div>
                 <div class="b-margin">
                   - Display details of booking on calendar.
                 </div>
@@ -68,7 +69,8 @@
                   - Validate time of booking before book.
                 </div>
                 <div class="b-margin">
-                  - Feature search booking by using keyword such as Building Name, Class No, Room Name.
+                  - Feature search booking by using keyword such as Building
+                  Name, Class No, Room Name.
                 </div>
                 <div class="b-margin">
                   - Export report to jpg such as statistic graph.
@@ -76,56 +78,57 @@
               </div>
             </div>
             <div class="content">
-              <br>
+              <br />
               <div>
                 <strong>Elearning Course,</strong>
-                Successful by using HTML CSS BOOTSTRAP JQUERY AJAX for FRONTEND and PHP PDO for BACKEND
-                development.
-                <br><br>
-                <div class="b-margin">
-                  - Set permission of administrator.
-                </div>
+                Successful by using HTML CSS BOOTSTRAP JQUERY AJAX for FRONTEND
+                and PHP PDO for BACKEND development.
+                <br /><br />
+                <div class="b-margin">- Set permission of administrator.</div>
                 <div class="b-margin">
                   - Setting details of course such as subject title detail.
                 </div>
                 <div class="b-margin">
                   - Upload media such as video and pdf file.
                 </div>
+                <div class="b-margin">- CRUD system for administrator.</div>
                 <div class="b-margin">
-                  - CRUD system for administrator.
-                </div>
-                <div class="b-margin">
-                  - Save the timestamp of the latest video viewed to resume watching next time.
+                  - Save the timestamp of the latest video viewed to resume
+                  watching next time.
                 </div>
               </div>
             </div>
             <div class="content">
-              <br>
+              <br />
               <div>
                 <strong>Sexology Course,</strong>
-                Successful by using Codigniter Framework (CI3), Indetails i used html css bootrap for UX/UI.
-                <br><br>
+                Successful by using Codigniter Framework (CI3), Indetails i used
+                html css bootrap for UX/UI.
+                <br /><br />
                 <div class="b-margin">
-                  - Set information of website such as site title, color menu, banner.
+                  - Set information of website such as site title, color menu,
+                  banner.
                 </div>
+                <div class="b-margin">- Set permission of user.</div>
                 <div class="b-margin">
-                  - Set permission of user.
-                </div>
-                <div class="b-margin">
-                  - Administrator can set user permissions for accessing only registered course.
+                  - Administrator can set user permissions for accessing only
+                  registered course.
                 </div>
               </div>
             </div>
           </a>
         </li>
-        <hr>
-        <br> <br>
+        <hr />
+        <br />
+        <br />
       </ul>
       <div class="year-container">
         <span class="year">2020 (Q1)</span>
       </div>
       <ul>
-        <br> <br> <br>
+        <br />
+        <br />
+        <br />
         <li>
           <a href="https://ceresaperfume.com/" target="_blank">
             <div class="Subject">
@@ -135,9 +138,10 @@
             </div>
 
             <div class="content align-left">
-              <br>
+              <br />
               <p>
-                - Worked in the production teams creative video image and ads, And Application Support in company.
+                - Worked in the production teams creative video image and ads,
+                And Application Support in company.
               </p>
             </div>
           </a>
@@ -147,8 +151,10 @@
         <span class="year">2019</span>
       </div>
       <ul>
-        <br> <br> <br>
-        <a href="#">
+        <br />
+        <br />
+        <br />
+        <a href="https://setup.co.th" target="__blank">
           <li>
             <div class="Subject">
               <h3>SETUP MANAGEMENT COMPANY LIMITED</h3>
@@ -156,13 +162,12 @@
               <div class="grey">November 2019 - December 2018</div>
             </div>
             <div class="content align-left">
-
-              <br>
+              <br />
               <p>
-                - Worked in the organization team, In details I work many thing such as design media by using adobe
-                illustrator, meeting with customer etc.
+                - Worked in the organization team, In details I work many thing
+                such as design media by using adobe illustrator, meeting with
+                customer etc.
               </p>
-
             </div>
           </li>
         </a>
@@ -173,17 +178,16 @@
 </template>
 
 <script>
-
 export default {
   name: "Experience",
-}
+};
 </script>
 <style scoped>
 .Subject {
   /* padding: 20px 20px; */
   position: relative;
   cursor: pointer;
-  transition: .5s;
+  transition: 0.5s;
 }
 
 .Subject h3 {
@@ -258,7 +262,7 @@ div {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: 'canada-type-gibson', sans-serif;
+  font-family: "canada-type-gibson", sans-serif;
   perspective: 800px;
 }
 
@@ -289,7 +293,7 @@ body {
   padding: 20px 20px;
   position: relative;
   cursor: pointer;
-  transition: .5s;
+  transition: 0.5s;
 }
 
 .timeline ul li span {
@@ -322,14 +326,14 @@ h5 {
 
 .timeline ul li:before {
   position: absolute;
-  content: '';
+  content: "";
   width: 10px;
   height: 10px;
   background-color: orangered;
   border-radius: 50%;
   left: -11px;
   top: 28px;
-  transition: .5s;
+  transition: 0.5s;
   margin: 0;
 }
 
@@ -353,6 +357,5 @@ h5 {
     color: orange;
     font-size: 15px;
   }
-
 }
 </style>

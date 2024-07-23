@@ -4,22 +4,38 @@
       <h1>Warat Supaporn</h1>
     </div>
     <ul>
-      <a href="https://github.com/sanookdev" target="_blank" rel="noopener noreferrer">
+      <a
+        href="https://github.com/sanookdev"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <li><i class="fab fa-github fa-lg"></i></li>
       </a>
-      <a href="https://www.behance.net/visheshbansal" target="_blank" rel="noopener noreferrer">
+      <a
+        href="https://www.facebook.com/streetnuk/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <li>
-          <i class="fab fa-facebook fa-lg" style="color:#fff;"></i>
+          <i class="fab fa-facebook fa-lg" style="color: #fff"></i>
         </li>
       </a>
-      <a href="https://www.linkedin.com/in/warat-supaporn-393693209/" target="_blank" rel="noopener noreferrer">
+      <a
+        href="https://www.linkedin.com/in/warat-supaporn-393693209/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <li class="last">
           <i class="fab fa-linkedin fa-lg"></i>
         </li>
       </a>
-      <a href="mailto:nuk.warat@gmail.com" target="_blank" rel="noopener noreferrer">
-        <li class=" last">
-          <i class="far fa-envelope fa-lg" style="color:white"></i>
+      <a
+        href="mailto:nuk.warat@gmail.com"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <li class="last">
+          <i class="far fa-envelope fa-lg" style="color: white"></i>
         </li>
       </a>
     </ul>
